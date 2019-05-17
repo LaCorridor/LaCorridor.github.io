@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Drag & Drop",
+        "content": "Both Matrix View and Scrum Board View allows Drag & Drop to move the tasks from one area to another."
+    },
+    {
+        "title": "Sync to OneDrive",
+        "content": "Sync data to your OneDrive by simply click a button. You can sync between the Windows 8 client and Windows Phone 8.1 client too."
+    },
+    {
+        "title": "Send to Calendar",
+        "content": "Arrange doesn't provide notification but you can send any task to your Live Calendar, where a notification will be created."
+    },
+    {
+        "title": "Fast Add",
+        "content": "You won't always have time or it won't be always necessary to type in a lot of details. Click a button on the target area, put in the title and save. New task created."
+    },
+    {
+        "title": "Custom Category",
+        "content": "Manage categories in Settings to better arrange the tasks."
+    },
+    {
+        "title": "Checklist",
+        "content": "It is important to double-check when a task item is done. Put a checklist a head and use that when you mark a task done."
+    },
+    {
+        "title": "Import / Export / Sync Data",
+        "content": "Data is important. Export them frequently and get them back when you needed. Sync is a convenient way to export the data directly to the most recent used location."
+    }
+]

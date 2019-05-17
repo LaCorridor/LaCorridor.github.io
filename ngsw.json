@@ -1,0 +1,88 @@
+{
+  "configVersion": 1,
+  "timestamp": 1557795255868,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/es2015-polyfills.c5dd28b362270c767b34.js",
+        "/index.html",
+        "/main.f451b647fc9dac582fa7.js",
+        "/polyfills.8bbb231b43165d65d357.js",
+        "/runtime.26209474bfa8dc87a77c.js",
+        "/styles.b5cf77025f646a7da2ad.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/features.json",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/ArrangeLogoTitle.png",
+        "/assets/images/QRForGP.png",
+        "/assets/images/QRForWPPro.png",
+        "/assets/images/QRforWPFree.png",
+        "/assets/images/donate.png",
+        "/assets/images/google-play-badge.png",
+        "/favicon.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/features.json": "03cc9429c23d84025d30426cdb7659f5d6f81471",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/ArrangeLogoTitle.png": "a81c17107c96f93deb7e4dba166ebc08e939fd66",
+    "/assets/images/QRForGP.png": "9a8c2131ecd44ed3d41b3e93c57c60098ca4a46e",
+    "/assets/images/QRForWPPro.png": "e1aea0548498a9dab458453ac43e37ca9c78ad63",
+    "/assets/images/QRforWPFree.png": "7478cad019c8e601cc7547d891caaf785e8104ae",
+    "/assets/images/donate.png": "969f2a10e7640b754c3fdd0bc11b186b9c408ba2",
+    "/assets/images/google-play-badge.png": "42c89d9b3363322d6d1fa4ed871d80b63dca1b99",
+    "/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "/favicon.png": "36c0958182399efded7bed82d517441d690f4cee",
+    "/index.html": "f8ae0f9cd647cf6a2d69ff24cd34a27b2ff7ac87",
+    "/main.f451b647fc9dac582fa7.js": "b821b4b035fd5bc3f69b84e09ad2cecfef636a90",
+    "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.b5cf77025f646a7da2ad.css": "8ff8833c700be49015197dd9f805abf81be738e2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
